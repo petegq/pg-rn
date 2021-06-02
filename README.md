@@ -1,4 +1,4 @@
-## React Native Examples
+## React Native Playground
 
 Just a collection of examples, demos and tests for reference purposes.
 
